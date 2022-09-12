@@ -12,4 +12,4 @@ Then use those images to train models using the Segmentation gym workflow.
 
 > conda activate ENV
 
-> conda install -c conda-forge geopandas pandas numpy scikit-learn scikit-image matplotlib notebook tqdm -y
+> conda install -c conda-forge rasterio geopandas pandas numpy scikit-learn scikit-image matplotlib notebook tqdm -y
